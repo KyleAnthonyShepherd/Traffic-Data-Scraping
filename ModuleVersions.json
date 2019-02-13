@@ -1,0 +1,17 @@
+{
+    "Python": {
+        "version": [
+            3,
+            6,
+            6,
+            "final",
+            0
+        ]
+    },
+    "json": {
+        "version": "2.0.9"
+    },
+    "requests": {
+        "version": "2.19.1"
+    }
+}
